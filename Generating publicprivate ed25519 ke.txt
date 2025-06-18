@@ -10,6 +10,9 @@ Your identification has been saved in /c/Users/hp/.ssh/id_ed25519
 Your public key has been saved in /c/Users/hp/.ssh/id_ed25519.pub
 The key fingerprint is:
 SHA256:hjJME2haIt97k+2GeMt5SbY/UWzjvBZ33cdJXUv8EX0 akhil.mr94@gmail.com
+
+dx
+zdscasddasffv
 The key's randomart image is:
 +--[ED25519 256]--+
 |   ..         ..o|
